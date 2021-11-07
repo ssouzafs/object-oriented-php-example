@@ -22,7 +22,7 @@ class CheckingAccount extends Account
     }
 
     /**
-     * Função polimorfada.
+     * Função polimórfica.
      *
      * @param float $value
      * @return string
@@ -46,7 +46,7 @@ class CheckingAccount extends Account
     }
 
     /**
-     * Função polimorfada.
+     * Função polimórfica.
      *
      * @param float $value
      * @return string
