@@ -19,7 +19,7 @@ class SavingsAccount extends Account
     }
 
     /**
-     * Função polimorfada.
+     * Função polimórfica.
      *
      * @param float $value
      * @return string
@@ -34,7 +34,7 @@ class SavingsAccount extends Account
     }
 
     /**
-     * Função polimorfada.
+     * Função polimórfica.
      *
      * @param float $value
      * @return string
