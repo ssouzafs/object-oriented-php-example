@@ -7,14 +7,14 @@ $client = new \Source\App\User(
     "Silva",
 );
 
-$saving = new \Source\Bank\SavingsAccount(
+$saving = new \Source\Bank\SavingsContaDeBanco(
     '09656-02',
     '5689',
     $client,
     100
 );
 
-$checking = new \Source\Bank\CheckingAccount(
+$checking = new \Source\Bank\CheckingContaDeBanco(
     '09656-02',
     '5689',
     $client,
